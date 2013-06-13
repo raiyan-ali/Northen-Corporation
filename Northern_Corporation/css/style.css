@@ -1,0 +1,54 @@
+.heading_Lft_Font{
+	font-size:9px;
+}
+
+.td1 {
+    border: 1px solid #000000;
+    line-height: 0;
+    padding: 2px;
+    text-align: left;
+    vertical-align: top;
+}
+.td6{
+	width: 3px;
+}
+
+table tr td{
+	border:1px solid #000;
+	text-align:center;
+}
+
+.img_logo {
+    border: 0 none;
+    height: 40px;
+   
+    vertical-align: text-top;
+	padding: 0 18px;
+}
+.under{
+	padding:30px;
+}
+
+.h_font{
+	font-family:"Estrangelo Edessa";
+	line-height:0px 0px;
+	margin:0px 0px;
+	padding:16px 0px;
+	border:0px 0px;
+}
+
+h4{
+	line-height:0px 0px;
+	margin:-25px 0px;
+	padding:0px 0px;
+	border:0px 0px;
+	font-size:22px;
+	font-weight:lighter;
+}
+
+.pack_list{
+	border:1px solid;
+	padding:2px 5px;
+	font-size:30px;
+	font-weight:bold;
+}
